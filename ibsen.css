@@ -1,0 +1,33 @@
+.speech{
+    font-size: 30; 
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    }
+
+.direction{
+    background-color: navajowhite;
+    font-size: 15; 
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+}
+
+.direction:hover{
+    background-color: yellow;
+    color: brown;
+ } 
+
+.alving{
+    color: yellowgreen;
+}
+
+.manders{
+    color: darkmagenta;
+}
+
+.oswald{
+    color: chocolate;
+}
+
+.regina{
+    color: plum;
+}
