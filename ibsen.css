@@ -32,6 +32,10 @@
     color: plum;
 }
 
+.engstrand{
+    color: deeppink;
+}
+
 .table {
     width: 50%;
     margin: 20px;
@@ -50,4 +54,49 @@
 
 .table tr:nth-child(even) {
     background-color:lightgrey;
+}
+
+.alving:hover{
+    color: blue;
+    font-weight: bold;
+    background-color: lavenderblush;
+    text-shadow: 4px 4px 4px darkgray;
+    filter: blur(1px);
+    border: 1px solid #000;
+}
+
+.manders:hover{
+    color:blue;
+    font-weight: bold;
+    background-color: lavenderblush;
+    text-shadow: 4px 4px 4px darkgray;
+    filter: blur(1px);
+    border: 1px solid #000;
+} 
+
+.oswald:hover{
+    color:blue;
+    font-weight: bold;
+    background-color: lavenderblush;
+    text-shadow: 4px 4px 4px darkgray;
+    filter: blur(1px);
+    border: 1px solid #000;
+}
+
+.regina:hover{
+    color:blue;
+    font-weight: bold;
+    background-color: lavenderblush;
+    text-shadow: 4px 4px 4px darkgray;
+    filter: blur(1px);
+    border: 1px solid #000;
+}
+
+.engstrand:hover{
+    color:blue;
+    font-weight: bold;
+    background-color: lavenderblush;
+    text-shadow: 4px 4px 4px darkgray;
+    filter: blur(1px);
+    border: 1px solid #000;
 }
