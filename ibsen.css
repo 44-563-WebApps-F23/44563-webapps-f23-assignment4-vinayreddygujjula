@@ -100,3 +100,26 @@
     filter: blur(1px);
     border: 1px solid #000;
 }
+
+.navbar ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    background-color: #000;
+}
+
+.navbar li {
+    padding: 10px;
+}
+
+.navbar a {
+    color: #980f0f;
+    text-decoration: none;
+}
+
+.navbar a:hover {
+    color: #ffc107;
+}
